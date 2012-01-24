@@ -1,0 +1,4 @@
+<registry>
+    <records interface="cerise.wizard.interfaces.IFirst" />
+  <records interface="cerise.wizard.interfaces.ISecond" />
+</registry>
